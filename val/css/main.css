@@ -1,0 +1,10 @@
+.my-container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+#login {
+    position: relative;
+    transition: 0.5s;
+}
